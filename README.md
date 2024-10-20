@@ -20,9 +20,9 @@ Lectures will be neatly organized into separate folders, e.g., Lecture 1, Lectur
 ## Watching Downloaded Videos
 For dual-source lectures (such as slides and video streams):
 
-Download [gridplayer]{https://github.com/vzhd1701/gridplayer} to play both sources of the lecture synchronously.  
+Download [gridplayer](https://github.com/vzhd1701/gridplayer) to play both sources of the lecture synchronously.  
 + To play synchronously
 + To view only one source while maintaining sync, double-click on the video you want to make full screen. Double-click again to return to dual view.  
 + To replicate the view of Echo360, change the aspect ratio to "None".  
-+ Keyboard Shortcuts  ![Speed]("keyboard shortcuts speed.png") ![Jump (to)]("keyboard shortcuts jump (to).png")
++ Keyboard Shortcuts  ![Speed](keyboard shortcuts speed.png) ![Jump (to)]("keyboard shortcuts jump (to).png")
 
