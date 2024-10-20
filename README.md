@@ -25,6 +25,6 @@ Download [gridplayer](https://github.com/vzhd1701/gridplayer) to play both sourc
 + To view only one source while maintaining sync, double-click on the video you want to make full screen. Double-click again to return to dual view.  
 + To replicate the view of Echo360, change the aspect ratio to "None".  
 + Keyboard Shortcuts  
-![Speed](keyboard%shortcuts%speed.png) 
-![Jump (to)](keyboard%shortcuts%jump%(to).png)
+![Speed](keyboard_shortcuts_speed.png) 
+![Jump (to)](keyboard_shortcuts_jump_(to).png)
 
