@@ -31,7 +31,7 @@ Download [gridplayer](https://github.com/vzhd1701/gridplayer) to play both sourc
 ![Echo360 View](echo360_like_view.png)  
 </div> 
 
-<div style="margin-left: 20px;">
+<div style="margin-left: 200px;">
     <img src="play_synchronously.png" alt="Play Synchronously" />
 </div>
 
