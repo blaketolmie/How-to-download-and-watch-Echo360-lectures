@@ -12,7 +12,7 @@ To download your lectures from Echo360:
 Lectures will be neatly organized into separate folders, e.g., Lecture 1, Lecture 2, etc.  
   
 > To download multiple courses at once, use the terminal:  
-    <!-- ```bash -->
+    ```bash
     python main.py -o "C:\Users\911BL\OneDrive - University of Canterbury\Lectures 2024\ENME203" -c "ENME203.txt"  
 > 
 > Make sure to update the course-specific cookies.txt file and output directory accordingly.  
