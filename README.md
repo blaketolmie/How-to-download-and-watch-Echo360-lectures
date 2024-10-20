@@ -31,6 +31,10 @@ Download [gridplayer](https://github.com/vzhd1701/gridplayer) to play both sourc
 ![Echo360 View](echo360_like_view.png)  
 </div> 
 
+<div style="margin-left: 20px;">
+    <img src="play_synchronously.png" alt="Play Synchronously" />
+</div>
+
 + To replicate the view of Echo360, change the aspect ratio to "None".  
 <div style="margin-left: 20px;">
 ![Change the Aspect Ratio to "None"](change_the_aspect_ratio_to_None.png) 
