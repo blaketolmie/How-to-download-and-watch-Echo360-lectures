@@ -22,9 +22,24 @@ For dual-source lectures (such as slides and video streams):
 
 Download [gridplayer](https://github.com/vzhd1701/gridplayer) to play both sources of the lecture synchronously.  
 + To play synchronously
-+ To view only one source while maintaining sync, double-click on the video you want to make full screen. Double-click again to return to dual view.  
+<div style="margin-left: 20px;">
+![Play Synchronously](play_synchronously.png)  
+</div>
+
++ To view only one source while maintaining sync, double-click on the video you want to make full screen. Double-click again to return to dual view.
+ <div style="margin-left: 20px;">
+![Echo360 View](echo360_like_view.png)  
+</div> 
+
 + To replicate the view of Echo360, change the aspect ratio to "None".  
+<div style="margin-left: 20px;">
+![Change the Aspect Ratio to "None"](change_the_aspect_ratio_to_None.png) 
+</div>
+
 + Keyboard Shortcuts  
+<div style="margin-left: 20px;">
 ![Speed](keyboard_shortcuts_speed.png) 
-![Jump (to)](keyboard_shortcuts_jump_(to).png)
+![Jump (to)](keyboard_shortcuts_jump_to.png)
+</div>
+
 
