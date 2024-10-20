@@ -1,19 +1,33 @@
-# How-to-download-and-watch-Echo360-lectures
+Here's a GitHub README version of your document for downloading and viewing Echo360 lectures:
 
-Downloading lectures from Echo360
-To download your lectures when on your course Echo360 export [cookies]{https://chromewebstore.google.com/detail/get-cookiestxt-locally/cclelndahbckbenkjhflpdbgdldlbecc} and put file in echo360-downloader folder (git clone https://github.com/ronandalton/echo360-downloader.git), run the main.py file and paste echo course link then it will automatically download all lectures in that course using the cookies.txt file (both video sources get downloaded neatly into separate folders eg Lecture 1, Lecture 2 etc). If you want to download more than 1 course at a time, use terminal command python main.py -o "C:\Users\911BL\OneDrive - University of Canterbury\Lectures 2024\ENME203" -c "ENME203.txt". Make sure to update the course name, cookies.txt file, and output directory to the correct ones.
-Watching downloaded videos
-Download duel video player so you can have both sources / screens of a lecture playing synchronously.  →
--	To play synchronously
- 
--	2 sources but you want to view only 1 (without exiting or breaking sync) → You can view only 1 source by double clicking the video you want to make go full screen, double click the video again to move back to 2 sources.
--	To make it the same view as Echo360 you can change the aspect to None
- 
- 
+markdown
+Copy code
+# Echo360 Downloader and Viewer
 
--	Keyboard shortcuts
- 
+## Downloading Lectures from Echo360
 
- 
+To download your lectures from Echo360:
 
+1. Export your course [cookies](https://chromewebstore.google.com/detail/get-cookiestxt-locally/cclelndahbckbenkjhflpdbgdldlbecc) using the "Get Cookies.txt" Chrome extension.
+2. Place the cookies.txt file in the `echo360-downloader` folder. Clone the downloader tool using:
+   ```bash
+   git clone https://github.com/ronandalton/echo360-downloader.git
+Run the main.py file and provide the Echo360 course link when prompted. The script will automatically download all lectures from the course using the cookies.txt file.
+Lectures will be neatly organized into separate folders, e.g., Lecture 1, Lecture 2, etc.
+To download multiple courses at once, use the following terminal command:
+bash
+Copy code
+python main.py -o "C:\Users\911BL\OneDrive - University of Canterbury\Lectures 2024\ENME203" -c "ENME203.txt"
+Make sure to update the course-specific cookies.txt file and output directory accordingly.
+Watching Downloaded Videos
+For dual-source lectures (such as slides and video streams):
 
+Download a dual-video player to play both sources of the lecture synchronously.
+To view only one source while maintaining sync, double-click on the video you want to make fullscreen. Double-click again to return to dual view.
+To replicate the view of Echo360, change the aspect ratio to "None".
+Keyboard Shortcuts
+To adjust your video view, use the appropriate player shortcuts. Customize them based on your player’s settings.
+csharp
+Copy code
+
+You can copy and paste this into your GitHub README file!
