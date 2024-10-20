@@ -14,7 +14,7 @@ Lectures will be neatly organized into separate folders, e.g., Lecture 1, Lectur
 > To download multiple courses at once, use the terminal:  
 >    ```bash  
 >    python main.py -o "C:\Users\911BL\OneDrive - University of Canterbury\Lectures 2024\ENME203" -c "ENME203.txt"  
->  
+  
 > Make sure to update the course-specific cookies.txt file and output directory accordingly.  
 
 ## Watching Downloaded Videos
