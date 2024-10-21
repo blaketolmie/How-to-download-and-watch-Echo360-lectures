@@ -32,7 +32,6 @@ Download [gridplayer](https://github.com/vzhd1701/gridplayer) to play both sourc
 
 + Keyboard Shortcuts  
 ![Speed](keyboard_shortcuts_speed.png)  
-  
 ![Jump (to)](keyboard_shortcuts_jump_to.png)   
 
 
