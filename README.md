@@ -31,6 +31,7 @@ Download [gridplayer](https://github.com/vzhd1701/gridplayer) to play both sourc
 ![Change the Aspect Ratio to "None"](change_the_aspect_ratio_to_None.png)  
 
 + Keyboard Shortcuts  
-![Speed](keyboard_shortcuts_speed.png)  ![Jump (to)](keyboard_shortcuts_jump_to.png)   
+![Speed](keyboard_shortcuts_speed.png)  
+![Jump (to)](keyboard_shortcuts_jump_to.png)   
 
 
