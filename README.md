@@ -18,9 +18,7 @@ Lectures will be neatly organized into separate folders, e.g., Lecture 1, Lectur
 > To download multiple courses concurrently, open a new terminal for each course then run the terminal prompt (make sure to update the cookies.txt file to course-specific and output directory accordingly).
 
 ## Watching Downloaded Videos
-For dual-source lectures (such as slides and video streams):
-
-Download [gridplayer](https://github.com/vzhd1701/gridplayer) to play both sources of the lecture synchronously.  
+For Echo360 type dual-source lectures (such as slides and video streams), download [gridplayer](https://github.com/vzhd1701/gridplayer) to play both sources of the lecture synchronously.  
 + To play synchronously  
 ![Play Synchronously](play_synchronously.png)
 
