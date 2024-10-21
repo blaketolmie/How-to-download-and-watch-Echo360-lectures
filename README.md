@@ -20,16 +20,16 @@ Lectures will be neatly organized into separate folders, e.g., Lecture 1, Lectur
 ## Watching Downloaded Videos
 For Echo360 type dual-source lectures (such as slides and video streams), download [gridplayer](https://github.com/vzhd1701/gridplayer) to play both sources of the lecture synchronously.  
 + To play synchronously  
-![Play Synchronously](play_synchronously.png)
+![Play Synchronously](images/play_synchronously.png)
 
 + To view only one source while maintaining sync, double-click on the video you want to make full screen. Double-click again to return to dual view.  
 ![Echo360 View](images/echo360_like_view.png)
 
 + To replicate the view of Echo360, change the aspect ratio to "None".  
-![Change the Aspect Ratio to "None"](change_the_aspect_ratio_to_None.png)  
+![Change the Aspect Ratio to "None"](images/change_the_aspect_ratio_to_None.png)  
 
 + Keyboard Shortcuts  
-![Speed](keyboard_shortcuts_speed.png)  
-![Jump (to)](keyboard_shortcuts_jump_to.png)   
+![Speed](images/keyboard_shortcuts_speed.png)  
+![Jump (to)](images/keyboard_shortcuts_jump_to.png)   
 
 
