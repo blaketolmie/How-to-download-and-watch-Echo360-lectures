@@ -4,7 +4,7 @@
 
 To download lectures from Echo360:
 
-1. Clone the downloader tool using:  
+1. Clone the Echo360 downloader tool using:  
    ```bash  
    git clone https://github.com/ronandalton/echo360-downloader.git 
 2. Export course cookies, [Export All Cookies](https://chromewebstore.google.com/detail/get-cookiestxt-locally/cclelndahbckbenkjhflpdbgdldlbecc) using the "Get Cookies.txt" Chrome extension. Place the cookies.txt file in the `echo360-downloader` folder.  
